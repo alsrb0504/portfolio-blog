@@ -1,0 +1,21 @@
+.header {
+  background-color: beige;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin: 0;
+}
+
+.menus {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.menu {
+  list-style: none;
+}

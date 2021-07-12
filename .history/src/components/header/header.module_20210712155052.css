@@ -1,0 +1,34 @@
+.header {
+  background-color: beige;
+  width: 100%;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  /* margin: 0; */
+  margin-right: 22rem;
+  cursor: pointer;
+}
+
+.menus {
+  /* margin: 0; */
+  /* padding: 0; */
+  display: flex;
+  margin-left: 6rem;
+}
+
+.menu {
+  list-style: none;
+  padding-right: 2rem;
+  cursor: pointer;
+  color: darkgray;
+  transition: color 150ms;
+}
+
+.title:hover,
+.menu:hover {
+  color: coral;
+}

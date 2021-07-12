@@ -1,0 +1,23 @@
+.header {
+  background-color: beige;
+  width: 100%;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  /* margin: 0; */
+  margin-right: 2rem;
+}
+
+.menus {
+  /* margin: 0; */
+  /* padding: 0; */
+  display: flex;
+}
+
+.menu {
+  list-style: none;
+}
