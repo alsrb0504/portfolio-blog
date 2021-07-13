@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 100vw;
+}
+
+.images {
+  /* display: relative; */
+  width: 100px;
+  height: 100px;
+}

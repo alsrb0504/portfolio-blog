@@ -1,0 +1,28 @@
+.main {
+  display: relative;
+  height: 60vh;
+  width: 100vw;
+}
+
+/* .image {
+  width: 100%;
+  height: 100%;
+
+} */
+
+.text_part::before {
+  content: "a";
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png");
+  width: 400px;
+  height: 200px;
+  background: chartreuse;
+}
+.text_part {
+  text-align: center;
+  position: absolute;
+  /* right: 50%; */
+  /* top: 50%; */
+  width: 100vw;
+  /* height: 100vh; */
+  margin: auto;
+}

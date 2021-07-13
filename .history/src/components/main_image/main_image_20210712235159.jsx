@@ -1,7 +1,9 @@
 import React from 'react';
 
 const MainImage = (props) => (
-  <h1>main</h1>
+  <div>
+    <img src="/images/bg.jpg" alt="main_image" />
+  </div>
 )
 
 export default MainImage;

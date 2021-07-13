@@ -1,0 +1,25 @@
+.main {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* margin-top: 3.2rem; */
+  /* 왜 main이 튀어나올까? */
+  height: 60vh;
+  width: 100vw;
+}
+
+.image {
+  display: relative;
+  /* width: 100px; */
+  width: 100%;
+  height: 100%;
+  /* height: 200px; */
+}
+
+.text_part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}

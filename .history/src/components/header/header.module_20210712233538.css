@@ -8,11 +8,14 @@
 }
 
 .title {
-  margin-right: 26rem;
+  /* margin: 0; */
+  margin-right: 25rem;
   cursor: pointer;
 }
 
 .menus {
+  /* margin: 0; */
+  /* padding: 0; */
   display: flex;
   margin-left: 6rem;
 }

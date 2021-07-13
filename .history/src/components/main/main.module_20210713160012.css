@@ -1,0 +1,26 @@
+.main {
+  height: 60vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+}
+main::after {
+  content: "";
+  width: 100vw;
+  height: 100vw;
+  background-color: brown;
+}
+
+.text_part {
+  padding: 10rem 0;
+  text-align: center;
+  color: white;
+  width: 100vw;
+}
+/* .text_part::after */
+
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}

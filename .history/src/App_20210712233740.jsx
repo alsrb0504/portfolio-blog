@@ -1,6 +1,6 @@
 import './app.module.css';
 import Header from './components/header/header';
-import MainImage from './components/main/main';
+import MainImage from './components/main_image/main_image';
 
 function App() {
   return (

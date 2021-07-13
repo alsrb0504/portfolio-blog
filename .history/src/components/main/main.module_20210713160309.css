@@ -1,0 +1,31 @@
+main::before {
+  content: "";
+  display: inline-block;
+  width: 100vw;
+  height: 100vw;
+  background-color: brown;
+}
+
+.main {
+  height: 60vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+}
+
+.text_part {
+  padding: 10rem 0;
+  text-align: center;
+  color: white;
+  width: 100vw;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+.sub_title {
+  font-size: 1.3rem;
+}

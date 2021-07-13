@@ -1,0 +1,12 @@
+.main {
+  /* height: 60vh; */
+  height: 500px;
+  width: 100vw;
+}
+
+.text_part {
+  text-align: center;
+  /* position: absolute; */
+  width: 100vw;
+  margin: auto;
+}

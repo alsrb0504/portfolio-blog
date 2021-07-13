@@ -1,0 +1,27 @@
+.main {
+  height: 60vh;
+  width: 100vw;
+  /* background-position: center; */
+  background-size: cover;
+  /* opacity: 0.5; */
+  background-color: rgb(78, 67, 6);
+  background-blend-mode: multiply;
+  opacity: 0.9;
+}
+
+.text_part {
+  padding: 10rem 0;
+  text-align: center;
+  color: white;
+  width: 100vw;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 5rem;
+}
+
+.sub_title {
+  font-size: 1.2rem;
+}
