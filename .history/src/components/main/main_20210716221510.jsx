@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './main.module.css'
 
-const Main = (props) => (
+const MainImage = (props) => (
   <div className={styles.main} style={{ backgroundImage: "url(/images/bg.jpg)" }} >
     <div className={styles.text_part} >
       <div className={styles.title}>
@@ -20,4 +20,4 @@ const Main = (props) => (
   </div>
 )
 
-export default Main;
+export default MainImage;

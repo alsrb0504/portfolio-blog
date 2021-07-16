@@ -1,0 +1,10 @@
+.container {
+  background-color: pink;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+}

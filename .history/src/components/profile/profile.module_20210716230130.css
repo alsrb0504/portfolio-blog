@@ -1,0 +1,25 @@
+.container {
+  background-color: pink;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  display: inline-block;
+  font-size: 2.5rem;
+  padding-top: 3rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid coral;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list {
+  flex-basis: 50%;
+  font-size: 2rem;
+}

@@ -10,8 +10,8 @@ const Header = (props) => {
       <ul className={styles.menus}>
         <li className={styles.menu}><span>Home</span></li>
         <li className={styles.menu}><span>Profile</span></li>
+        <li className={styles.menu}><span>Skill</span></li>
         <li className={styles.menu}><span>Projects</span></li>
-        <li className={styles.menu}><span>Contact</span></li>
       </ul>
     </header>
   )

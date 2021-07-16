@@ -1,0 +1,48 @@
+.container {
+  background-color: pink;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  display: inline-block;
+  font-size: 2.5rem;
+  padding-top: 3rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid coral;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.list {
+  flex-basis: 40%;
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.icon {
+  font-size: 2.5rem;
+  margin-right: 2rem;
+  width: 1rem;
+}
+
+.info {
+  /* width: 1rem; */
+  /* height: 1rem; */
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.info span:first-child {
+  font-weight: bold;
+}
